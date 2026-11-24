@@ -1,1 +1,2 @@
 # SNEX23_Photos
+Data for this repo derived from NASA SnowEx 2023 on NSIDC.Mason, M., Vuyovich, C. M., Stuefer, S., Elder, K., Vas, D., Marshall, H. & Durand, M. (2025). SnowEx23 Mar23 Snow Pit Measurements. (SNEX23_MAR23_SP, Version 1). [Data Set]. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/SJZ90KNPKCYR. Date Accessed 11-24-2026.
